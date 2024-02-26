@@ -1,3 +1,15 @@
 h1{
     color: rebeccapurple;
 }
+.header{
+    display: flex;
+    height: 50px;
+}
+.logo{
+    background-color: aqua;
+    width: 30%;
+}
+.menu{
+    background-color: bisque;
+    width: 70%;
+}

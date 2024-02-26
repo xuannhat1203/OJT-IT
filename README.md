@@ -6,3 +6,4 @@
 - git - ommit : Thêm code vào r-pository bà comment bằng (commit -m "your comment");
 - git remote: Liên kết folder ở máy tính đến repository trên github
 - git push origin branch_name : đẩy code từ local lên repository trên github
+-
