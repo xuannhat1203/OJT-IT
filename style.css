@@ -1,6 +1,10 @@
 h1{
     color: rebeccapurple;
 }
+.body{
+    background-color: aquamarine;
+    height: 300px;
+}
 .header{
     display: flex;
     height: 50px;
